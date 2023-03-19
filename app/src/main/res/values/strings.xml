@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Error2Imc</string>
+
+    <string name="female">Mulher</string>
+    <string name="male">Homem</string>
+    <string name="height">Altura</string>
+    <string name="weight">Peso</string>
+    <string name="age">Idade</string>
+    <string name="calculate">Calcular</string>
+    <string name="recalculate">Recalcular</string>
+    <string name="result">Seu resultado é: </string>
+
+    <string name="error">Erro</string>
+
+    <string name="title_thinness">Magreza</string>
+    <string name="description_thinness">Você está abaixo do peso ideal.</string>
+
+    <string name="title_weight_normal">Normal</string>
+    <string name="description_normal">Você está no peso ideal.</string>
+
+    <string name="title_overweight">Sobrepeso</string>
+    <string name="description_overweight">Você está acima do peso ideal.</string>
+
+    <string name="title_obesity">Obesidade</string>
+    <string name="description_obesity">Você está muito acima do peso ideal.</string>
+</resources>
